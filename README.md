@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 Sunrin Internet High School - Software Department 20 <br/>
-Hanyang University ERICA - Interdisciplinary Computing Technology 23
+Hanyang University ERICA - Interdisciplinary Computing Technology 23 <br/>
+Matholic - Frontend Developer 25.04 ~ 25.10
 
 ### Tech Stack 📚
 <img src="https://img.shields.io/badge/Javascript-EFD81A?style=flat-square&logo=javascript&logoColor=white"/></a>
